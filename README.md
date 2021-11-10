@@ -5,24 +5,33 @@
 # Zack Atama
 I'm Zack Atama from Uganda, and I do UX Design and Web Development. I really enjoy learning new tools, frameworks and web development technologies that simplify my work, I am currently working with Figma for my UX Design work, ReactJS and Material-UI for Frontend development, Node and ExpressJS for most of my Backend tasks.
 
-## Current Work
-- 🔭 I’m currently working on [Bumu Technologies](https://bumutechnologies.com/) and [Arise For The Planet Websites](http://arisefortheplanet.org/). 
-- 🌱 I’m currently learning Unit Tests in TypeScript using Ponicode
+## Current Activities
+- 🔭 I’m currently working on the UX Designs of an application called [TripScout Africa](https://www.figma.com/file/AlYaIobiK1hv4tkBeqdzAf/TripScout-Mockups?node-id=0%3A1). 
+- 🌱 I’m currently learning Unit Tests in [TypeScript](https://www.typescriptlang.org/) using [Ponicode](https://www.ponicode.com/).
 
 ## Technology Experience
-#### Languages/Scripts: &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/javascript.gif' alt='JavaScript' height='16'> JavaScript &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/typescript.png' alt='TypeScript' height='16'> TypeScript &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/html5.png' alt='HTML5' height='16'> HTML5 &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/css3.png' alt='CSS3' height='16'> CSS3
+#### UX Design: &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/figma.gif' alt='Figma' height='16'> Figma](https://www.figma.com/developers) &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/adobe-xd.gif' alt='Adobe XD' height='16'> Adobe XD](https://www.adobe.com/products/xd.html)
 
-#### UX Design: &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/figma.gif' alt='Figma' height='16'> Figma &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/adobe-xd.gif' alt='Adobe XD' height='16'> Adobe XD
+#### Languages/Scripts: &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/javascript.gif' alt='JavaScript' height='16'> JavaScript](https://www.javascript.com/) &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/typescript.png' alt='TypeScript' height='16'> TypeScript](https://www.typescriptlang.org/) &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/html5.png' alt='HTML5' height='16'> HTML5](https://html.com/html5/) &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/css3.png' alt='CSS3' height='16'> CSS3](https://devdocs.io/css/)
 
-#### Frontend: &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/react.gif' alt='React' height='16'> React &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/material-ui.png' alt='Material UI' height='16'> Material UI &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bootstrap.png' alt='Bootstrap 4' height='16'> Bootstrap 4
+#### Frontend: &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/react.gif' alt='React' height='16'> React](https://reactjs.org/docs/getting-started.html) &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/material-ui.png' alt='Material UI' height='16'> Material UI](https://mui.com/) &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bootstrap.png' alt='Bootstrap 4' height='16'> Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
-#### Backend: &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/node.png' alt='NodeJS' height='16'> NodeJS &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/express.png' alt='ExpressJS' height='16'> ExpressJS &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/mongodb.png' alt='MongoDB' height='16'> MongoDB
+#### Backend: &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/node.png' alt='NodeJS' height='16'> NodeJS](https://nodejs.org/en/docs/) &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/express.png' alt='ExpressJS' height='16'> ExpressJS](https://expressjs.com/) &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/mongodb.png' alt='MongoDB' height='16'> MongoDB](https://docs.mongodb.com/)
 
-## Work/Projects
-### [Bumu Technologies <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bumu.jpg' alt='Bumu Technologies' height='16'>](https://bumutechnologies.com/)
+#### Unit Testing: &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/jest.png' alt='Jest' height='16'> Jest](https://jestjs.io/docs/getting-started) &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/ponicode.png' alt='Ponicode' height='20'> Ponicode](https://www.ponicode.com/)
+
+#### Deployment Cloud Services: &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/heroku.png' alt='Heroku' height='16'> Heroku](https://devcenter.heroku.com/) &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/netlify.png' alt='Netlify' height='16'> Netlify](https://docs.netlify.com/)
+
+## Work Experience and Projects
+### Websites/Web Applications
+#### [Bumu Technologies <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bumu.jpg' alt='Bumu Technologies' height='16'>](https://bumutechnologies.com/)
 [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bumu-tech.png' alt='Bumu Technologies' height='250'>](https://bumutechnologies.com/)
 - I was responsible for designing and building the website of technology based company called [Bumu Technologies](https://bumutechnologies.com/).
 
-### [Arise For The Planet <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/aftp.jpg' alt='Arise For The Planet' height='16'>](http://arisefortheplanet.org/)
+#### [Arise For The Planet <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/aftp.jpg' alt='Arise For The Planet' height='16'>](http://arisefortheplanet.org/)
 [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/arisefortheplanet.png' alt='Arise For The Planet' height='250'>](http://arisefortheplanet.org/)
 - I was responsible for designing and building the website of climatic change based organization called [Arise For The Planet](http://arisefortheplanet.org/).
+
+### UX Designs
+#### TripScout Africa
+<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/tripscout3.jpg' alt='UX Design Layouts' height='700'>
