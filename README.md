@@ -24,11 +24,11 @@ I'm Zack Atama from Uganda, and I do UX Design and Web Development. I really enj
 #### Deployment Cloud Services: &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/heroku.png' alt='Heroku' height='13'> Heroku](https://devcenter.heroku.com/) &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/netlify.png' alt='Netlify' height='13'> Netlify](https://docs.netlify.com/)
 
 ## Work Experience and Projects
-### [Bumu Technologies <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bumu.jpg' alt='Bumu Technologies' height='16'>](https://bumutechnologies.com/)
+### [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bumu.jpg' alt='Bumu Technologies' height='30' align="left">Bumu Technologies](https://bumutechnologies.com/)
 [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bumu-tech.png' alt='Bumu Technologies' height='300'>](https://bumutechnologies.com/)
 <!-- I was responsible for designing and building the website of technology based company called [Bumu Technologies](https://bumutechnologies.com/). -->
 
-### [Arise For The Planet <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/aftp.jpg' alt='Arise For The Planet' height='16'>](http://arisefortheplanet.org/)
+### [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/aftp.jpg' alt='Arise For The Planet' height='30' align="left">Arise For The Planet](http://arisefortheplanet.org/)
 [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/arisefortheplanet.png' alt='Arise For The Planet' height='300'>](http://arisefortheplanet.org/)
 <!-- I was responsible for designing and building the website of climatic change based organization called [Arise For The Planet](http://arisefortheplanet.org/). -->
 
