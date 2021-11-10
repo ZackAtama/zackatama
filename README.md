@@ -5,17 +5,22 @@
 # Zack Atama
 I'm Zack Atama from Uganda, and I do UX Design and Web Development. I really enjoy learning new tools, frameworks and web development technologies that simplify my work, I am currently working with Figma for my UX Design work, ReactJS and Material-UI for Frontend development, Node and ExpressJS for most of my Backend tasks.
 
-## Skills and Experience
-#### UX Design Tools: &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/figma.gif' alt='Figma' height='20'> Figma &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/adobe-xd.gif' alt='Adobe XD' height='20'> Adobe XD
-
-#### Languages and Scripting: &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/javascript.gif' alt='JavaScript' height='20'> JavaScript &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/typescript.png' alt='TypeScript' height='20'> TypeScript &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/html5.png' alt='HTML5' height='20'> HTML5 &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/css3.png' alt='CSS3' height='20'> CSS3
-
-#### Frontend: &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/react.gif' alt='React' height='20'> React &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/material-ui.png' alt='Material UI' height='20'> Material UI &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bootstrap.png' alt='Bootstrap 4' height='20'> Bootstrap 4
-
-#### Backend: &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/node.png' alt='NodeJS' height='20'> NodeJS &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/express.png' alt='ExpressJS' height='20'> ExpressJS &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/mongodb.png' alt='MongoDB' height='20'> MongoDB
-
-## Current Activities
+## Current Work
 - 🔭 I’m currently working on [Bumu Technologies](https://bumutechnologies.com/) and [Arise For The Planet Websites](http://arisefortheplanet.org/). 
-- 🌱 I’m currently learning Unit Tests in TypeScript using Ponicode 
- 
+- 🌱 I’m currently learning Unit Tests in TypeScript using Ponicode
 
+## Technology Experience
+#### Languages/Scripts: &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/javascript.gif' alt='JavaScript' height='16'> JavaScript &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/typescript.png' alt='TypeScript' height='16'> TypeScript &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/html5.png' alt='HTML5' height='16'> HTML5 &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/css3.png' alt='CSS3' height='16'> CSS3
+
+#### UX Design: &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/figma.gif' alt='Figma' height='16'> Figma &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/adobe-xd.gif' alt='Adobe XD' height='16'> Adobe XD
+
+#### Frontend: &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/react.gif' alt='React' height='16'> React &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/material-ui.png' alt='Material UI' height='16'> Material UI &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bootstrap.png' alt='Bootstrap 4' height='16'> Bootstrap 4
+
+#### Backend: &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/node.png' alt='NodeJS' height='16'> NodeJS &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/express.png' alt='ExpressJS' height='16'> ExpressJS &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/mongodb.png' alt='MongoDB' height='16'> MongoDB
+
+## Work/Projects
+### [Bumu Technologies](https://bumutechnologies.com/)
+[<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bumu-tech.png' alt='Bumu Technologies' height='300'>](https://bumutechnologies.com/)
+
+### [Arise For The Planet](http://arisefortheplanet.org/)
+[<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/arisefortheplanet.png' alt='Arise For The Planet' height='300'>](http://arisefortheplanet.org/)
