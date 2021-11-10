@@ -19,10 +19,10 @@ I'm Zack Atama from Uganda, and I do UX Design and Web Development. I really enj
 #### Backend: &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/node.png' alt='NodeJS' height='16'> NodeJS &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/express.png' alt='ExpressJS' height='16'> ExpressJS &nbsp; <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/mongodb.png' alt='MongoDB' height='16'> MongoDB
 
 ## Work/Projects
-### [Bumu Technologies <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bumu.png' alt='Bumu Technologies' height='20'>](https://bumutechnologies.com/)
-[<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bumu-tech.png' alt='Bumu Technologies' height='200'>](https://bumutechnologies.com/)
+### [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bumu.jpg' alt='Bumu Technologies' height='16'> Bumu Technologies](https://bumutechnologies.com/)
+[<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/bumu-tech.png' alt='Bumu Technologies' height='250'>](https://bumutechnologies.com/)
 - I was responsible for designing and building the website of technology based company called [Bumu Technologies](https://bumutechnologies.com/).
 
-### [Arise For The Planet <img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/aftp.png' alt='Arise For The Planet' height='20'>](http://arisefortheplanet.org/)
-[<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/arisefortheplanet.png' alt='Arise For The Planet' height='200'>](http://arisefortheplanet.org/)
+### [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/aftp.jpg' alt='Arise For The Planet' height='16'> Arise For The Planet](http://arisefortheplanet.org/)
+[<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/arisefortheplanet.png' alt='Arise For The Planet' height='250'>](http://arisefortheplanet.org/)
 - I was responsible for designing and building the website of climatic change based organization called [Arise For The Planet](http://arisefortheplanet.org/).
