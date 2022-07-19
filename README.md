@@ -4,7 +4,8 @@
 ![Wed Development & UX Design](https://github.com/ZackAtama/zackatama/blob/main/assets/images/header-banner.jpg)
 
 # Zack Atama
-I'm Zack Atama from Uganda, and I do UX Design and Web Development. I really enjoy learning new tools, frameworks and web development technologies that simplify my work, I am currently working with Figma for my UX Design work, ReactJS and Material-UI for Frontend development, Node and ExpressJS for most of my Backend tasks.
+I'm from Uganda <img src='https://user-images.githubusercontent.com/19763840/179643513-90a8a28d-5e84-46d0-a24c-c55ef0ddd430.png' alt='Uganda Flag' height='15'>
+, and I do UX Design and Web Development. I really enjoy learning new tools, frameworks and web development technologies that simplify my work, I am currently working with Figma for my UX Design work, ReactJS and Material-UI for Frontend development, Node and ExpressJS for most of my Backend tasks.
 
 ## Current Activities
 - 🔭 I’m currently working on the UX Designs of an application called [TripScout Africa](https://www.figma.com/file/AlYaIobiK1hv4tkBeqdzAf/TripScout-Mockups?node-id=0%3A1). 
