@@ -4,7 +4,7 @@
 ![Wed Development & UX Design](https://github.com/ZackAtama/zackatama/blob/main/assets/images/header-banner.jpg)
 
 # Zack Atama
-I'm from Uganda <img src='https://user-images.githubusercontent.com/19763840/179643513-90a8a28d-5e84-46d0-a24c-c55ef0ddd430.png' alt='Uganda Flag' height='15'>
+I'm from Uganda <img src='https://user-images.githubusercontent.com/19763840/179643513-90a8a28d-5e84-46d0-a24c-c55ef0ddd430.png' alt='Uganda Flag' height='20'>
 , and I do UX Design and Web Development. I really enjoy learning new tools, frameworks and web development technologies that simplify my work, I am currently working with Figma for my UX Design work, ReactJS and Material-UI for Frontend development, Node and ExpressJS for most of my Backend tasks.
 
 ## Current Activities
@@ -12,7 +12,7 @@ I'm from Uganda <img src='https://user-images.githubusercontent.com/19763840/179
 - 🌱 I’m currently learning Unit Tests in [TypeScript](https://www.typescriptlang.org/) using [Ponicode](https://www.ponicode.com/).
 
 ## Technologies and Tools
-#### UX Design: &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/figma.gif' alt='Figma' height='18'>](https://www.figma.com/developers) Figma &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/adobe-xd.gif' alt='Adobe XD' height='18'>](https://www.adobe.com/products/xd.html) Adobe XD
+#### UX Design: &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/figma.gif' alt='Figma' height='18'>](https://www.figma.com/developers) [Figma](https://www.figma.com/developers) &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/adobe-xd.gif' alt='Adobe XD' height='18'>](https://www.adobe.com/products/xd.html) Adobe XD
 
 #### Languages/Scripts: &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/javascript.gif' alt='JavaScript' height='18'>](https://www.javascript.com/) JavaScript &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/typescript.png' alt='TypeScript' height='18'>](https://www.typescriptlang.org/) TypeScript &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/html5.png' alt='HTML5' height='18'>](https://html.com/html5/) HTML5 &nbsp; | &nbsp; [<img src='https://github.com/ZackAtama/zackatama/blob/main/assets/images/css3.png' alt='CSS3' height='18'>](https://devdocs.io/css/) CSS3
 
